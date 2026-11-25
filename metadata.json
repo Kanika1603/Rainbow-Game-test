@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow Obstacle Course",
+  "description": "A vibrant rainbow-themed obstacle course platformer with bouncy cloud jumps, spinning hazards, checkpoints, and time trials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
